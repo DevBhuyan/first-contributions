@@ -17,6 +17,7 @@
 - [Hend Mohammed.](https://github.com/HendMohammed90)
   [Felipe Pastrian](https://github.com/Pastrian)
 - [narkis9984](https://github.com/narkis9984)
+- [Dev Bhuyan](https://github.com/DevBhuyan)
 - [CemreTheBoss](https://github.com/cemrenurkeles)
 - [hawkinswinja](https://github.com/hawkinswinja)
 - [jadahego](https://github.com/jadahego)**jdhg**
